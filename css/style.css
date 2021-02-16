@@ -67,3 +67,11 @@ body {
     bottom: 0;
     left: calc(50% - 150px);
 }
+.start-game-window {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
